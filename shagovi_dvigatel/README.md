@@ -4,7 +4,7 @@
 (калибровочный стенд «РЭКС»)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-2020-FFDB00?style=flat-square&logo=labview&logoColor=black)
 ![RS232](https://img.shields.io/badge/RS-232-green?style=flat-square)
-![Visa](style=flat-square)
+![VISA](https://img.shields.io/badge/VISA-interface-blue?style=flat-square)
 
 ---
 
