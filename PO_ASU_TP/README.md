@@ -3,8 +3,6 @@
 > Автоматизированная система управления технологическим процессом откачки вакуумной камеры
 
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-2020-FFDB00?style=for-the-badge&logo=labview&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Prototype-green?style=for-the-badge)
-![Vacuum](https://img.shields.io/badge/Pressure-10⁻⁵%20Torr-blue?style=for-the-badge)
 
 ---
 
